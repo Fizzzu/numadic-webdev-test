@@ -1,0 +1,17 @@
+@media(max-width:500px){
+    body {
+        margin: 0;
+        height: auto;
+        display:flex;
+        width: 100%;
+        scroll-behavior: horizontal;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+      
+      code {
+        font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+          monospace;
+      }
+    
+}
